@@ -1,0 +1,6 @@
+3dpoints/3D_KKC_sampled.tar.gz filter=lfs diff=lfs merge=lfs -text
+complaints/ข้อมูลคำร้อง_sampled.xlsx filter=lfs diff=lfs merge=lfs -text
+diabetes/data_dictionary_diabetes_example.xlsx filter=lfs diff=lfs merge=lfs -text
+hypertension/data_dictionary_hypertension_example.xlsx filter=lfs diff=lfs merge=lfs -text
+ventilator/data_dictionary_smarticu.xlsx filter=lfs diff=lfs merge=lfs -text
+nmr-pattern/Domain_1_processed_NMR_spectrum.pdf filter=lfs diff=lfs merge=lfs -text
