@@ -1,6 +1,6 @@
 ---
 title: "ชุดข้อมูลคลื่นของเครื่องช่วยหายใจจากผู้ป่วย ICU"
-track: "Medical"
+track: "Health"
 domain:
   - "Clinical"
   - "ICU"

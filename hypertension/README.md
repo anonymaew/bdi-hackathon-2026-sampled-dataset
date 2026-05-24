@@ -1,6 +1,6 @@
 ---
 title: "ชุดข้อมูล EMR ผู้ป่วยความดันแบบติดตามยาว"
-track: "Medical"
+track: "Health"
 domain:
   - "Clinical"
   - "Cardiovascular Research"

@@ -1,6 +1,6 @@
 ---
 title: "ชุดข้อมูล EMR ผู้ป่วยเบาหวานแบบติดตามยาว"
-track: "Medical"
+track: "Health"
 domain:
   - "Clinical"
   - "Diabetes Research"
